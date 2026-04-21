@@ -33,7 +33,7 @@ A Bridge-Star Subgraph is defined as:
 - These bridge nodes serve as **shared semantic connectors** and form the basis for **multi-constraint reasoning**.
 
 <p align="center">
-  <img src="images/bridge-star.png" width="500">
+  <img src="images/桥接星型子图.png" width="500">
 </p>
 
 ### **2. Query Formation**
